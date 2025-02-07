@@ -40,3 +40,11 @@ This command-line application allows users to manage and interact with a list of
 4. Enter the required vehicle details.
 5. Choose an action (e.g., display vehicle info).
 6. Perform additional actions or exit.
+
+## Walkthrough Video
+
+Google Drive: https://drive.google.com/file/d/1igknl77OVmqyzC5r12o4ve5KaMpJ4Vni/view?usp=drive_link 
+
+## Repository 
+
+GitHub: https://github.com/cernxavi/Vehicle-Management-Command-Line-Application.git
